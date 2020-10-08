@@ -4,7 +4,7 @@ package cse360assignment02;
 /**
  * 
  * @author panryan
- * AddingMachine class has multiple methods intended to perform a task, majority are blank
+ * AddingMachine class has multiple methods that add, subtract, getters for total value, manipulation of integer values and storage of them.
  *
  */
 
